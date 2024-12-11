@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43a9d2fb-792f-4b2d-96b8-b854708bdebc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collecttions CHECK-IN.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Students.java" afterDir="false" />
-    </list>
+    <list default="true" id="43a9d2fb-792f-4b2d-96b8-b854708bdebc" name="Changes" comment="check-in collections" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,11 +73,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733926049986</updated>
-      <workItem from="1733926051092" duration="1155000" />
+      <workItem from="1733926051092" duration="1470000" />
     </task>
+    <task id="LOCAL-00001" summary="check-in collections">
+      <option name="closed" value="true" />
+      <created>1733927480623</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733927480623</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="check-in collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="check-in collections" />
   </component>
 </project>
